@@ -21,7 +21,7 @@ h2 {
 }
 
 .box-hover {
-    background-color: orange;
+    background-color: gray;
     position: absolute;
     width: 290px;
     height: 200px;
